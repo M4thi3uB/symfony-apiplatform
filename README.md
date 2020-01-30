@@ -15,12 +15,14 @@ Enter the project folder
 `cd skeleton`
 
 Install the API Platform's server component in this skeleton  
+(in terminal)
+
 `composer install`
 
-`$ bin/console doctrine:database:create` 
+`php bin/console doctrine:database:create` 
 
-`$ bin/console doctrine:schema:create`
+`php bin/console doctrine:schema:create`
 
 Built-in PHP server
 
-`$ php -S 127.0.0.1:8000 -t public`
+`php -S 127.0.0.1:8000 -t public`
