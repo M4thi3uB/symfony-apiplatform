@@ -14,6 +14,7 @@ Install the API Platform's server component in this skeleton
 `composer install`
 
 `$ bin/console doctrine:database:create` 
+
 `$ bin/console doctrine:schema:create`
 
 Built-in PHP server
