@@ -3,7 +3,7 @@ A simple skeleton symfony with API Platform
 
 `https://api-platform.com/`
 
-`https://symfony.com/doc/current/index.html#gsc.tab=0`
+`https://symfony.com/doc/current/setup/flex.html`
 
 this skeleton used for an API vehicule. 
 
