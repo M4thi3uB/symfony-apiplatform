@@ -14,8 +14,11 @@ After i will create a front react app with this backend API.
 Enter the project folder   
 `cd skeleton`
 
+ Install the API Platform's server component in this skeleton
+ 
+`composer req api`
+
 Install the API Platform's server component in this skeleton  
-(in terminal)
 
 `composer install`
 
