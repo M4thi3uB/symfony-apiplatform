@@ -1,6 +1,10 @@
 # symfony-apiplatform
 A simple skeleton symfony with API Platform
 
+`https://api-platform.com/`
+
+`https://symfony.com/doc/current/index.html#gsc.tab=0`
+
 this skeleton used for an API vehicule. 
 
 After i will create a front react app with this backend API.
