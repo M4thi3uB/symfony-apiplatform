@@ -18,4 +18,5 @@ Install the API Platform's server component in this skeleton
 `$ bin/console doctrine:schema:create`
 
 Built-in PHP server
+
 `$ php -S 127.0.0.1:8000 -t public`
